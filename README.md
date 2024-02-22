@@ -21,9 +21,12 @@ Adding filters and slicers to allow users to interact with the data dynamically.
 Incorporating key performance indicators (KPIs) and summary statistics to highlight important trends and findings.
 Enhancing the visual appeal and usability of the dashboards for stakeholders.
    
-![Screenshot (1)](https://github.com/darshanns09/Data-Professional-Survey-Data-Visualization-using-Power-BI/assets/145355404/4c7d1c31-ad6a-483d-8542-873e85c43fbf)
+
+![Screenshot (1)](https://github.com/darshanns09/Data-Professional-Survey-Data-Visualization-using-Power-BI/assets/145355404/46caef40-15ed-44a4-a2c4-6ccc2b913576)
 
 
 
 
-![Screenshot (2)](https://github.com/darshanns09/Data-Professional-Survey-Data-Visualization-using-Power-BI/assets/145355404/b30b1143-4af4-453d-868f-ad74a6dd3e85)
+![Screenshot (2)](https://github.com/darshanns09/Data-Professional-Survey-Data-Visualization-using-Power-BI/assets/145355404/428d9364-ac8d-4185-9a42-3f339a2c1cfa)
+
+
